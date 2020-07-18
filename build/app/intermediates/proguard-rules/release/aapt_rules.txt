@@ -1,0 +1,6 @@
+# Referenced at /media/shashank/gok/sts/Parvares/Tertium/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /media/shashank/gok/sts/Parvares/Tertium/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:23
+-keep class bhartiyapps.tertium.MainActivity { <init>(); }
+# Referenced at /media/shashank/gok/sts/Parvares/Tertium/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
